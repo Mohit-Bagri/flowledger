@@ -1,0 +1,2015 @@
+{
+  "@@locale": "en",
+  "appName": "FlowLedger",
+
+  "home": "Home",
+  "income": "Income",
+  "expenses": "Expenses",
+  "insights": "Insights",
+
+  "settings": "Settings",
+  "profile": "Profile",
+  "appLock": "App Lock",
+  "subscription": "Subscription",
+  "currency": "Currency",
+  "language": "Language",
+  "appearance": "Appearance",
+  "notifications": "Notifications",
+
+  "bankAccounts": "Bank Accounts",
+  "paymentMethods": "Payment Methods",
+  "budgets": "Budgets",
+  "savingsGoals": "Savings Goals",
+  "categories": "Categories",
+  "merchants": "Merchants",
+  "recurringTransactions": "Recurring Transactions",
+  "exportData": "Export Data",
+  "importData": "Import Data",
+  "cloudSync": "Cloud Sync",
+  "clearAllData": "Clear All Data",
+
+  "account": "Account",
+  "preferences": "Preferences",
+  "dataManagement": "Data Management",
+  "about": "About",
+
+  "freePlan": "Free Plan",
+  "premium": "Premium",
+  "enabled": "Enabled",
+  "disabled": "Disabled",
+
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "add": "Add",
+  "done": "Done",
+  "confirm": "Confirm",
+  "close": "Close",
+  "back": "Back",
+  "next": "Next",
+  "skip": "Skip",
+  "retry": "Retry",
+  "update": "Update",
+  "continue_": "Continue",
+  "ok": "OK",
+  "yes": "Yes",
+  "no": "No",
+  "other": "Other",
+
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "signOut": "Sign Out",
+  "forgotPassword": "Forgot Password?",
+  "createAccount": "Create Account",
+  "deleteAccount": "Delete Account",
+
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "name": "Name",
+  "birthDate": "Birth Date",
+  "displayName": "Display Name",
+  "changePassword": "Change Password",
+  "updatePassword": "Update Password",
+  "updateYourPassword": "Update your account password",
+  "dangerZone": "Danger Zone",
+  "permanentlyDelete": "Permanently delete your account and all data",
+  "signOutOfAccount": "Sign out of your account",
+  "currencyWarning": "Changing currency will update the symbol displayed throughout the app. Your transaction amounts will remain unchanged.",
+  "notSet": "Not set",
+  "notAvailable": "Not available",
+  "enterYourName": "Enter your name",
+  "enterNewPassword": "Enter new password",
+  "confirmNewPassword": "Confirm new password",
+  "enterNewEmail": "Enter new email address",
+
+  "welcomeBack": "Welcome Back",
+  "goodMorning": "Good Morning",
+  "goodAfternoon": "Good Afternoon",
+  "goodEvening": "Good Evening",
+
+  "totalIncome": "Total Income",
+  "totalExpenses": "Total Expenses",
+  "balance": "Balance",
+  "thisMonth": "This Month",
+  "lastMonth": "Last Month",
+  "thisYear": "This Year",
+  "thisWeek": "This Week",
+  "last7Days": "Last 7 Days",
+  "last30Days": "Last 30 Days",
+  "allTime": "All Time",
+  "custom": "Custom",
+
+  "addIncome": "Add Income",
+  "addExpense": "Add Expense",
+  "editIncome": "Edit Income",
+  "editExpense": "Edit Expense",
+  "scan": "Scan",
+  "quickActions": "Quick Actions",
+
+  "amount": "Amount",
+  "description": "Description",
+  "date": "Date",
+  "category": "Category",
+  "source": "Source",
+  "notes": "Notes",
+  "type": "Type",
+
+  "search": "Search",
+  "searchCurrencies": "Search currencies...",
+  "selectCurrency": "Select Currency",
+  "selectLanguage": "Select Language",
+  "searchMerchants": "Search merchants...",
+  "searchCategories": "Search categories...",
+
+  "noData": "No data available",
+  "noTransactions": "No transactions yet",
+  "noIncome": "No income recorded",
+  "noIncomeYet": "No income yet",
+  "noExpenses": "No expenses recorded",
+  "noExpensesYet": "No expenses yet",
+  "noIncomeSourcesYet": "No income sources yet",
+  "tapAddIncomeToStart": "Tap \"Add Income\" to get started",
+  "tapAddExpenseToStart": "Tap the + button to add your first expense",
+  "tapPlusToAddIncome": "Tap the + button to add your first income",
+
+  "error": "Error",
+  "success": "Success",
+  "warning": "Warning",
+  "info": "Info",
+
+  "loading": "Loading...",
+  "pleaseWait": "Please wait...",
+  "processing": "Processing...",
+  "clearingData": "Clearing data...",
+
+  "version": "Version",
+  "privacyPolicy": "Privacy Policy",
+  "termsOfService": "Terms of Service",
+  "rateApp": "Rate App",
+  "shareApp": "Share App",
+
+  "systemDefault": "System Default",
+
+  "unlockApp": "Unlock FlowLedger",
+  "authenticateToUnlock": "Authenticate to unlock",
+  "useBiometric": "Use Biometric",
+  "couldNotEnableAppLock": "Could not enable App Lock. Please check your device settings.",
+
+  "upgradeToPremium": "Upgrade to Premium",
+  "restorePurchases": "Restore Purchases",
+  "manageSubscription": "Manage Subscription",
+
+  "incomeStreams": "Income Streams",
+  "recentExpenses": "Recent Expenses",
+  "netBalance": "Net Balance",
+  "overspent": "Overspent",
+
+  "syncNow": "Sync Now",
+  "backupToCloud": "Backup to Cloud",
+  "restoreFromCloud": "Restore from Cloud",
+  "uploadAndDownloadChanges": "Upload and download changes",
+  "uploadAllLocalData": "Upload all local data",
+  "downloadAllCloudData": "Download all cloud data",
+  "signOutQuestion": "Sign Out?",
+  "deleteAccountQuestion": "Delete Account?",
+  "restoreFromCloudQuestion": "Restore from Cloud?",
+  "localDataWillBeCleared": "Your local data will be cleared for privacy. Sign in again to restore your data from the cloud.",
+  "restore": "Restore",
+  "finalConfirmation": "Final Confirmation",
+  "deleteForever": "Delete Forever",
+  "typeDeleteToConfirm": "Type DELETE to confirm",
+  "deleteAllData": "Delete All Data",
+  "allLocalDataCleared": "All local data has been cleared",
+  "errorClearingData": "Error clearing data",
+
+  "dailyReminders": "Daily Reminders",
+  "dailyExpenseReminder": "Daily Expense Reminder",
+  "getRemindedToLogExpenses": "Get reminded to log your expenses",
+  "reminderTime": "Reminder Time",
+  "cheekyMessages": "Cheeky Messages",
+  "funWittyReminderMessages": "Fun, witty reminder messages",
+  "budgetAlerts": "Budget Alerts",
+  "getNotifiedBudgetLimits": "Get notified when approaching budget limits",
+  "alertThreshold": "Alert Threshold",
+  "goalProgress": "Goal Progress",
+  "goalNotifications": "Goal Notifications",
+  "getNotifiedGoalMilestones": "Get notified about savings goal milestones",
+  "weeklySummary": "Weekly Summary",
+  "getSpendingSummaryEverySunday": "Get a spending summary every Sunday",
+  "sendTestNotification": "Send Test Notification",
+  "notificationPermission": "Notification Permission",
+  "notNow": "Not Now",
+  "enableNotifications": "Enable Notifications",
+  "enableNotificationsToStayOnTrack": "Enable notifications to stay on track with your finances",
+
+  "addMerchant": "Add Merchant",
+  "editMerchant": "Edit Merchant",
+  "deleteMerchant": "Delete Merchant",
+  "popularMerchants": "Popular Merchants",
+  "suggestions": "Suggestions",
+  "customMerchants": "Custom Merchants",
+  "yourMerchants": "Your Merchants",
+  "noCustomMerchantsYet": "No custom merchants yet",
+  "merchantName": "Merchant name...",
+  "renameMerchantNote": "This will rename in your saved merchants list. Note: This only updates the suggestion list. Existing expenses store merchant names directly and will keep the original name.",
+  "deleteMerchantNote": "Are you sure you want to delete from your saved merchants? Note: This only removes it from the suggestion list. Existing expenses will keep their merchant names.",
+
+  "incomeCategories": "Income Categories",
+  "expenseCategories": "Expense Categories",
+  "updateCategory": "Update Category",
+  "deleteCategory": "Delete Category",
+  "addCategory": "Add Category",
+  "customCategory": "Custom",
+  "systemCategory": "System",
+  "noCustomIncomeCategoriesYet": "No custom income categories yet",
+  "noCustomExpenseCategoriesYet": "No custom expense categories yet",
+  "enterCategoryName": "Enter category name...",
+  "categoryDeleted": "Category deleted",
+  "categoryUpdated": "Category updated",
+  "updateCategoryForAllIncome": "This will update the category for all existing income entries. Continue?",
+  "updateCategoryForAllExpense": "This will update the category for all existing expense entries. Continue?",
+  "deleteCategoryConfirmIncome": "Are you sure you want to delete this category? This will affect all income entries using this category.",
+  "deleteCategoryConfirmExpense": "Are you sure you want to delete this category? This will affect all expense entries using this category.",
+
+  "addBankAccount": "Add Bank Account",
+  "editBankAccount": "Edit Bank Account",
+  "accountDeleted": "Account deleted",
+  "bankName": "Bank Name",
+  "accountNumber": "Account Number",
+  "accountType": "Account Type",
+  "accountNickname": "Account Nickname",
+  "lastFourDigits": "Last 4 digits",
+  "ifscCode": "IFSC Code",
+  "selectBankType": "Select bank type",
+  "enterCustomAccountType": "Enter custom account type",
+  "pleaseEnterCustomAccountType": "Please enter a custom account type name",
+
+  "addPaymentMethod": "Add Payment Method",
+  "editPaymentMethod": "Edit Payment Method",
+  "paymentMethodDeleted": "Payment method deleted",
+  "cashAlreadyAdded": "Cash is already added",
+  "cashAdded": "Cash added",
+  "upiId": "UPI ID",
+  "cardLastFour": "Last 4 digits",
+  "enterPaymentMethodName": "Enter payment method name",
+
+  "createGoal": "Create Goal",
+  "editGoal": "Edit Goal",
+  "addMoney": "Add Money",
+  "withdrawMoney": "Withdraw Money",
+  "deleteGoalQuestion": "Delete Goal?",
+  "deleteGoal": "Delete Goal",
+  "goalName": "Goal Name",
+  "targetAmount": "Target Amount",
+  "currentAmount": "Current Amount",
+  "targetDate": "Target Date",
+  "goalDeleted": "Goal deleted",
+  "goalCreated": "Goal created",
+  "goalUpdated": "Goal updated",
+  "noGoalsYet": "No savings goals yet",
+
+  "copyBudgets": "Copy Budgets",
+  "copy": "Copy",
+  "noBudgetSet": "No budget set",
+  "setBudget": "Set Budget",
+  "monthlyBudget": "Monthly Budget",
+  "enterBudgetAmount": "Enter budget amount",
+  "setBudgetZeroRemove": "Set to 0 or empty to remove budget for this category",
+  "quickSet": "Quick Set",
+  "saveBudget": "Save Budget",
+  "saving": "Saving...",
+  "budgetSetFor": "Budget set for {category}",
+  "@budgetSetFor": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "budgetRemovedFor": "Budget removed for {category}",
+  "@budgetRemovedFor": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "copyFromPreviousMonth": "Copy from previous month",
+  "noBudgetsFound": "No budgets found for {month}",
+  "@noBudgetsFound": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      }
+    }
+  },
+  "copiedBudgets": "Copied {count} budget(s)",
+  "@copiedBudgets": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "budgeted": "Budgeted",
+  "spent": "Spent",
+  "remaining": "Remaining",
+  "used": "used",
+  "over": "Over",
+
+  "pendingTransactions": "Pending Transactions",
+  "active": "Active",
+  "paused": "Paused",
+  "recurringTransactionDeleted": "Recurring transaction deleted",
+  "transactionAdded": "Transaction added!",
+  "skippedForThisPeriod": "Skipped for this period",
+
+  "deleteExpense": "Delete Expense",
+  "deleteIncome": "Delete Income",
+  "deleteIncomeSource": "Delete Income Source",
+  "all": "All",
+  "merchant": "Merchant",
+  "paymentMethod": "Payment Method",
+  "recurring": "Recurring",
+  "frequency": "Frequency",
+  "stability": "Stability",
+  "bankAccount": "Bank Account",
+  "dateReceived": "Date Received",
+  "nextExpected": "Next Expected",
+  "incomeDeleted": "Income deleted",
+  "expenseDeleted": "Expense deleted",
+  "deleteExpenseConfirm": "Are you sure you want to delete this expense? This action cannot be undone.",
+  "deleteIncomeConfirm": "Are you sure you want to delete this income? This action cannot be undone.",
+
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "cameraAccess": "Camera Access",
+  "photoLibraryAccess": "Photo Library Access",
+  "scanReceipt": "Scan Receipt",
+  "scanning": "Scanning...",
+  "analyzingReceipt": "Analyzing receipt...",
+  "receiptScanned": "Receipt scanned successfully",
+
+  "accountCreated": "Account Created!",
+  "gotItGoToSignIn": "Got it, go to Sign In",
+  "welcomeToFlowLedger": "Welcome to FlowLedger",
+
+  "compareAndAnalyze": "Compare & Analyze",
+  "bankAccountAnalysis": "Bank Account Analysis",
+  "sixMonthTrend": "6-Month Trend",
+  "aiInsights": "AI Insights",
+  "dailySpendingPattern": "Daily Spending Pattern",
+  "topMerchants": "Top Merchants",
+  "dailySpending": "Daily Spending",
+  "comparePaymentMethods": "Compare Payment Methods",
+  "compareMerchants": "Compare Merchants",
+  "compareCategories": "Compare Categories",
+  "unusualSpendingDetected": "Unusual Spending Detected",
+  "excellentSavings": "Excellent Savings!",
+  "spendingExceedsIncome": "Spending Exceeds Income",
+  "startTracking": "Start Tracking",
+  "allLookingGood": "All Looking Good!",
+  "noBankTransactionsThisMonth": "No bank transactions this month",
+  "noMerchantData": "No merchant data",
+  "noDataForTrendAnalysis": "No data for trend analysis",
+  "noPaymentData": "No payment data",
+  "noDailyData": "No daily data",
+  "noSpendingData": "No spending data",
+  "noDataForSelectedCategories": "No data for selected categories",
+  "maxItemsCompareError": "Maximum 4 items can be compared at a time",
+  "digital": "Digital",
+  "cash": "Cash",
+  "weeklyInsight": "Weekly Insight",
+  "topSpendingCategory": "Your top spending category this week is {category}. You've spent {amount} on it.",
+  "@topSpendingCategory": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "startTrackingInsight": "Start tracking your expenses to get personalized insights about your spending patterns.",
+
+  "saveChanges": "Save Changes",
+  "aboutFlowLedger": "About FlowLedger",
+  "sendFeedback": "Send Feedback",
+  "followsDeviceSettings": "Follows device settings",
+
+  "pro": "PRO",
+  "upgradeRequired": "Upgrade Required",
+  "thisFeatureRequiresPro": "This feature requires FlowLedger PRO",
+  "upgradeToPro": "Upgrade to PRO",
+  "flowLedgerPro": "FlowLedger PRO",
+  "unlockAllFeatures": "Unlock all features",
+  "lifetime": "Lifetime",
+  "oneTimePurchase": "One-time purchase",
+  "yearly": "Yearly",
+  "perYear": "per year",
+  "monthly": "Monthly",
+  "perMonth": "per month",
+  "bestValue": "Best Value",
+  "mostPopular": "Most Popular",
+  "currencyFilter": "Currency",
+  "allCurrencies": "All",
+  "clearDataWarning": "This will permanently delete all your local data. Cloud sync is not enabled.",
+  "clearDataCloudNote": "Your cloud data will remain safe. You can restore by syncing again.",
+  "clearDataConfirm": "Are you sure you want to clear all data?",
+  "incomeTransactions": "Income Transactions",
+  "expenseTransactions": "Expense Transactions",
+  "seeAll": "See All",
+  "incomeReceived": "Income received",
+  "quickSummary": "Quick Summary",
+  "healthScore": "Health Score",
+  "savingPercent": "Saving {percent}%",
+  "@savingPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "excellent": "Excellent",
+  "good": "Good",
+  "fair": "Fair",
+  "poor": "Poor",
+  "needsWork": "Needs Work",
+
+  "yourPersonalFinanceCompanion": "Your Personal Finance Companion",
+  "aboutDescription": "FlowLedger helps you track all your income streams, understand your expenses and detect money leaks automatically. Take control of your finances with powerful insights, budgeting tools and smart categorization.",
+  "keyFeatures": "Key Features",
+  "incomeExpenseTracking": "Income & Expense Tracking",
+  "smartBudgetsInsights": "Smart Budgets & Insights",
+  "receiptScanningAI": "Receipt Scanning with AI",
+  "cloudSyncBackup": "Cloud Sync & Backup",
+  "developer": "Developer",
+  "flutterDeveloper": "Flutter Developer",
+  "rateUs": "Rate Us",
+  "helpUsImprove": "Help us improve with your feedback",
+  "madeWithLoveInIndia": "Made with ❤️ in India",
+
+  "importTransactions": "Import Transactions",
+  "premiumFeature": "Premium Feature",
+  "csvImportPremium": "CSV Import is available for premium users",
+  "upgrade": "Upgrade",
+  "csvTemplate": "CSV Template",
+  "downloadSampleTemplate": "Download a sample template with example data",
+  "download": "Download",
+  "required": "REQUIRED",
+  "fieldsRequired": "Fields marked with * are mandatory",
+  "viewFieldDetails": "View Field Details",
+  "selectCsvFile": "Select a CSV file to import",
+  "transactionsFound": "{count} transactions found",
+  "@transactionsFound": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "changeFile": "Change File",
+  "selectCsvFileBtn": "Select CSV File",
+  "importType": "Import Type",
+  "autoDetect": "Auto Detect",
+  "autoDetectDesc": "Automatically detect CSV format",
+  "flowLedgerExport": "FlowLedger Export",
+  "flowLedgerExportDesc": "Import from FlowLedger exported CSV",
+  "bankStatement": "Bank Statement",
+  "bankStatementDesc": "Import from bank CSV export",
+  "customMapping": "Custom Mapping",
+  "customMappingDesc": "Manually map columns",
+  "columnMapping": "Column Mapping",
+  "mapColumnsDesc": "Map your CSV columns to transaction fields",
+  "selectColumn": "Select column",
+  "notMapped": "Not mapped",
+  "bankStatementSettings": "Bank Statement Settings",
+  "dateColumn": "Date Column",
+  "descriptionColumn": "Description Column",
+  "amountColumn": "Amount Column",
+  "creditColumn": "Credit Column",
+  "debitColumn": "Debit Column",
+  "separateCreditDebitColumns": "Separate Credit/Debit Columns",
+  "positiveCredits": "Positive amounts are credits (income)",
+  "preview": "Preview",
+  "andMoreRows": "... and {count} more rows",
+  "@andMoreRows": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "importTransactionsBtn": "Import Transactions",
+  "importing": "Importing...",
+  "importSuccessful": "Import Successful!",
+  "importWithWarnings": "Import Completed with Warnings",
+  "totalRows": "Total Rows",
+  "expensesImported": "Expenses Imported",
+  "incomeImported": "Income Imported",
+  "skipped": "Skipped",
+  "details": "Details",
+  "templateReady": "Template ready to share!",
+  "failedCreateTemplate": "Failed to create template",
+  "couldNotReadCsv": "Could not read CSV file",
+  "errorLoadingFile": "Error loading file",
+  "selectDateColumn": "Please select the date column",
+  "selectAmountColumn": "Please select the amount column",
+  "mapDateAmount": "Please map Date and Amount columns",
+  "importFailed": "Import failed",
+  "importedTransactions": "Imported {count} transactions",
+  "@importedTransactions": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "selectDate": "Select Date",
+  "selectTime": "Select Time",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+
+  "viewDetails": "View Details",
+  "transactionDetails": "Transaction Details",
+  "noNotesAdded": "No notes added",
+
+  "pleaseSelectPaymentMethod": "Please select a payment method",
+  "pleaseSelectBankAccount": "Please select a bank account for this payment method",
+  "pleaseEnterMerchantName": "Please enter a merchant name",
+  "pleaseSelectCategory": "Please select a category",
+  "pleaseEnterCustomCategory": "Please enter a custom category name",
+  "pleaseEnterAmount": "Please enter an amount",
+  "pleaseEnterName": "Please enter a name",
+  "pleaseEnterValidAmount": "Please enter a valid amount",
+
+  "selectPaymentMethod": "Select payment method",
+  "selectBankAccount": "Select bank account",
+  "selectCategory": "Select category",
+  "selectMerchant": "Select merchant",
+  "enterMerchantName": "Enter merchant name...",
+  "anyAdditionalDetails": "Any additional details...",
+
+  "daily": "Daily",
+  "weekly": "Weekly",
+  "biweekly": "Bi-weekly",
+  "monthlyFreq": "Monthly",
+  "quarterly": "Quarterly",
+  "halfYearly": "Half-yearly",
+  "yearlyFreq": "Yearly",
+
+  "salary": "Salary",
+  "freelance": "Freelance",
+  "business": "Business",
+  "investment": "Investment",
+  "rental": "Rental",
+  "dividend": "Dividend",
+  "bonus": "Bonus",
+  "gift": "Gift",
+  "refund": "Refund",
+  "otherIncome": "Other",
+
+  "food": "Food & Dining",
+  "transport": "Transport",
+  "shopping": "Shopping",
+  "utilities": "Utilities",
+  "entertainment": "Entertainment",
+  "healthcare": "Healthcare",
+  "education": "Education",
+  "travel": "Travel",
+  "personalCare": "Personal Care",
+  "groceries": "Groceries",
+  "rent": "Rent",
+  "insurance": "Insurance",
+  "subscriptions": "Subscriptions",
+  "otherExpense": "Other",
+
+  "noCategoriesForFilter": "No items for this category",
+  "pullToRefresh": "Pull to refresh",
+
+  "exportAsPdf": "Export as PDF",
+  "exportAsCsv": "Export as CSV",
+  "exportSuccess": "Export successful",
+  "exportFailed": "Export failed",
+  "shareExport": "Share Export",
+
+  "debugMode": "Debug Mode",
+  "debugPremium": "Debug Premium",
+
+  "signInToContinue": "Sign in to continue",
+  "orContinueWith": "Or continue with",
+  "continueWithGoogle": "Continue with Google",
+  "dontHaveAccount": "Don't have an account?",
+  "alreadyHaveAccount": "Already have an account?",
+  "passwordResetEmailSent": "Password reset email sent",
+  "checkYourEmail": "Check your email for instructions",
+
+  "biometricAuthentication": "Biometric Authentication",
+  "useFingerprint": "Use fingerprint to unlock",
+  "useFaceId": "Use Face ID to unlock",
+
+  "noInternetConnection": "No internet connection",
+  "checkConnection": "Please check your connection and try again",
+
+  "somethingWentWrong": "Something went wrong",
+  "tryAgainLater": "Please try again later",
+
+  "changesSaved": "Changes saved",
+  "settingsUpdated": "Settings updated",
+
+  "selectAll": "Select All",
+  "deselectAll": "Deselect All",
+  "selected": "selected",
+  "items": "items",
+  "item": "item",
+
+  "filter": "Filter",
+  "sortBy": "Sort by",
+  "ascending": "Ascending",
+  "descending": "Descending",
+  "newest": "Newest",
+  "oldest": "Oldest",
+  "highest": "Highest",
+  "lowest": "Lowest",
+
+  "total": "Total",
+  "average": "Average",
+  "count": "Count",
+  "percentage": "Percentage",
+
+  "jan": "Jan",
+  "feb": "Feb",
+  "mar": "Mar",
+  "apr": "Apr",
+  "may": "May",
+  "jun": "Jun",
+  "jul": "Jul",
+  "aug": "Aug",
+  "sep": "Sep",
+  "oct": "Oct",
+  "nov": "Nov",
+  "dec": "Dec",
+
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+
+  "mon": "Mon",
+  "tue": "Tue",
+  "wed": "Wed",
+  "thu": "Thu",
+  "fri": "Fri",
+  "sat": "Sat",
+  "sun": "Sun",
+
+  "editAccount": "Edit Account",
+  "securityNote": "FlowLedger stores data locally on your device only. We do not collect or store any sensitive financial information like full account numbers or passwords.",
+  "accountName": "Account Name",
+  "accountNameHint": "e.g., \"Salary Account\", \"Savings\"",
+  "accountNameRequired": "Account name is required",
+  "customAccountType": "Custom Account Type",
+  "customAccountTypeHint": "e.g., Trading Account, PPF, etc.",
+  "customAccountTypeRequired": "Custom account type is required",
+  "accountNumberLast4": "Account Number (Last 4 digits)",
+  "last4DigitsHint": "e.g., 1234",
+  "last4DigitsRequired": "Last 4 digits are required",
+  "pleaseEnter4Digits": "Please enter exactly 4 digits",
+  "ifscCodeOptional": "IFSC Code (Optional)",
+  "ifscCodeHint": "e.g., HDFC0001234",
+  "color": "Color",
+  "updateAccount": "Update Account",
+  "addAccount": "Add Account",
+  "selectBank": "Select Bank",
+  "searchBanks": "Search banks...",
+  "otherEnterCustom": "Other (Enter custom name)",
+  "backToList": "Back to list",
+  "enterBankName": "Enter bank name...",
+
+  "paymentSecurityNote": "FlowLedger stores data locally on your device only. We do not collect or store any sensitive financial information like full card numbers, CVV or bank passwords.",
+  "paymentType": "Payment Type",
+  "updateMethod": "Update Method",
+  "addMethod": "Add Method",
+  "cashPaymentsNote": "Cash payments will be tracked without any additional details.",
+  "upiApp": "UPI App",
+  "upiIdOptional": "UPI ID (Optional)",
+  "upiIdHint": "e.g., yourname@okbank",
+  "cardName": "Card Name",
+  "lastFourDigits": "Last 4 Digits",
+  "transferType": "Transfer Type",
+  "walletName": "Wallet Name",
+  "chequeDetails": "Cheque Details",
+  "chequeDetailsHint": "e.g., Cheque No. 123456",
+  "chequeDetailsRequired": "Cheque details are required",
+  "chequeNote": "Enter cheque number or any reference for tracking.",
+  "nameRequired": "Name is required",
+  "enterUpiAppName": "Enter UPI app name...",
+  "upiAppNameRequired": "UPI app name is required",
+  "cardNameHint": "e.g., \"My {cardType} Card\"",
+  "cardNameRequired": "Card name is required",
+  "enterTransferType": "Enter transfer type...",
+  "transferTypeRequired": "Transfer type is required",
+  "walletNameHint": "e.g., \"My Wallet\"",
+  "walletNameRequired": "Wallet name is required",
+
+  "addByTappingPlus": "Add one by tapping the + button above or by adding an expense with a new merchant",
+  "popular": "Popular",
+  "merchantSettings": "Merchant Settings",
+  "merchantFieldMandatory": "Merchant field is mandatory",
+  "merchantMandatoryNote": "You must enter a merchant when adding expenses",
+  "merchantOptionalNote": "Merchant field is optional when adding expenses",
+
+  "onboardingTitle1": "Track Every Income Stream",
+  "onboardingDesc1": "Salary, freelance, business, passive income. Manage all your earnings in one place.",
+  "onboardingTitle2": "Know Where Money Goes",
+  "onboardingDesc2": "Categorize expenses, scan receipts and see spending patterns at a glance.",
+  "onboardingTitle3": "Find Your Money Leaks",
+  "onboardingDesc3": "AI detects wasteful spending you don't notice. Small purchases that add up.",
+  "onboardingTitle4": "Ready to Take Control?",
+  "onboardingDesc4": "Start tracking your finances today and never wonder where your money went again.",
+  "yesLetsGo": "Yes, Let's Go!",
+
+  "appIsLocked": "App is locked",
+  "authenticating": "Authenticating...",
+  "unlock": "Unlock",
+  "useFaceIdTouchIdOrPin": "Use Face ID, Touch ID, or device PIN",
+
+  "whatsIncluded": "What's included",
+  "renewsOn": "Renews on {date}",
+  "@renewsOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "lifetimeAccessLabel": "Lifetime access",
+  "limitedFeatures": "Limited features",
+
+  "editRecurring": "Edit Recurring",
+  "addRecurring": "Add Recurring",
+  "recurringNameHintExpense": "e.g., \"Netflix Subscription\"",
+  "recurringNameHintIncome": "e.g., \"Monthly Salary\"",
+  "nextDueDate": "Next Due Date",
+  "pickDate": "Pick Date",
+  "chooseIcon": "Choose Icon",
+  "enterCustomCategoryName": "Enter custom category name...",
+  "fromBankAccount": "From Bank Account",
+  "toBankAccount": "To Bank Account",
+  "descriptionOptional": "Description (Optional)",
+  "updateRecurring": "Update Recurring",
+  "saveRecurring": "Save Recurring",
+  "addPaymentMethodFirst": "Add a payment method",
+  "addNew": "Add New",
+  "noBankAccountsConfigured": "No bank accounts configured",
+  "tapToAddBankAccount": "Tap to add a bank account",
+  "addBank": "Add Bank",
+  "recurringTransactionUpdated": "Recurring transaction updated!",
+  "recurringTransactionAdded": "Recurring transaction added!",
+
+  "reviewReceipt": "Review Receipt",
+  "use": "Use",
+  "itemsDetected": "items detected",
+  "tapToViewFullImage": "Tap to view full image",
+  "merchantNameLabel": "Merchant Name",
+  "receiptItems": "Items",
+  "addItem": "Add Item",
+  "noItemsDetected": "No items detected",
+  "tapAddItemToAddManually": "Tap \"Add Item\" to add manually",
+  "selectedTotal": "Selected Total",
+  "ofItems": "of {count} items",
+  "@ofItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "viewRawExtractedText": "View raw extracted text",
+  "useThisData": "Use This Data ({count} items)",
+  "@useThisData": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "editItem": "Edit Item",
+  "itemName": "Item Name",
+  "itemNameHint": "e.g., Coffee",
+  "price": "Price",
+  "qty": "Qty",
+
+  "signInToSyncData": "Sign in to sync your data across devices",
+  "enterYourEmail": "Enter your email",
+  "enterYourPassword": "Enter your password",
+  "pleaseEnterYourEmail": "Please enter your email",
+  "pleaseEnterValidEmail": "Please enter a valid email",
+  "pleaseEnterYourPassword": "Please enter your password",
+  "passwordMin6Chars": "Password must be at least 6 characters",
+  "signedUpWithGoogle": "Signed up with Google? Skip the form and use the Google button below.",
+  "skipForNow": "Skip for now",
+
+  "mustBe12YearsOld": "You must be at least 12 years old to use this app",
+  "pleaseSelectBirthDate": "Please select your birth date",
+  "selectYourBirthDate": "Select your birth date",
+
+  "newPasswordMustBeDifferent": "New password must be different from your current password. Please choose a different password.",
+  "resetLinkExpired": "This reset link has expired. Please request a new password reset link.",
+  "failedToResetPassword": "Failed to reset password. The link may have expired. Please try again.",
+  "passwordUpdatedSuccessfully": "Password updated successfully!",
+
+  "selectTimeTitle": "Select Time",
+  "setTime": "Set Time",
+
+  "selectDateRange": "Select Date Range",
+  "customRange": "Custom Range",
+  "tapToSelectDates": "Tap to select dates",
+  "apply": "Apply",
+
+  "limitReached": "Limit Reached",
+  "unlimitedAccess": "Unlimited {feature}",
+  "@unlimitedAccess": {
+    "placeholders": {
+      "feature": {
+        "type": "String"
+      }
+    }
+  },
+  "cloudSyncAcrossDevices": "Cloud sync across devices",
+  "advancedInsightsReports": "Advanced insights & reports",
+  "maybeLater": "Maybe Later",
+
+  "unlockThisFeature": "Upgrade to Premium to unlock this feature",
+  "deepSpendingAnalytics": "Deep spending analytics",
+  "categoryBreakdowns": "Category breakdowns",
+  "trendComparisons": "Trend comparisons",
+
+  "cameraPermissionRequired": "Camera Permission Required",
+  "cameraPermissionMessage": "Camera access is needed to scan receipts. Please enable it in Settings.",
+  "photoLibraryPermissionRequired": "Photo Library Permission Required",
+  "photoLibraryPermissionMessage": "Photo library access is needed to select receipt images. Please enable it in Settings.",
+  "notificationPermissionRequired": "Notification Permission Required",
+  "notificationPermissionMessage": "Notifications help you stay on track with expense tracking reminders. Please enable it in Settings.",
+  "openSettings": "Open Settings",
+  "allow": "Allow",
+
+  "authenticateToContinue": "Please authenticate to continue",
+  "authenticateToEditTransaction": "Authenticate to edit this transaction",
+  "authenticateToDeleteTransaction": "Authenticate to delete this transaction",
+
+  "excellentSavingsRate": "Excellent savings rate",
+  "savingOfIncome": "Saving {percent}% of income",
+  "@savingOfIncome": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "goodSavingsRate": "Good savings rate",
+  "moderateSavings": "Moderate savings",
+  "overspending": "Overspending",
+  "spendingMoreThanEarning": "Spending more than earning",
+  "lowSavings": "Low savings",
+  "tryToSave20Percent": "Try to save at least 20%",
+  "recurringIncome": "Recurring income",
+  "recurringSourcesCount": "{count} recurring source(s)",
+  "@recurringSourcesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "multipleIncomeEntries": "Multiple income entries",
+  "entriesCount": "{count} entries",
+  "@entriesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "budgetDiscipline": "Budget discipline",
+  "allBudgetsOnTrack": "All {count} budget(s) on track",
+  "@allBudgetsOnTrack": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "budgetOverruns": "Budget overruns",
+  "budgetsExceeded": "{count} budget(s) exceeded",
+  "@budgetsExceeded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "manyMicroTransactions": "Many micro-transactions",
+  "purchasesUnderAmount": "{count} purchases under ₹200",
+  "@purchasesUnderAmount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "consistentSpending": "Consistent spending",
+  "noUnusualSpikes": "No unusual spikes",
+  "spendingImproved": "Spending improved",
+  "percentLessThanAverage": "{percent}% less than average",
+  "@percentLessThanAverage": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "spendingIncreased": "Spending increased",
+  "percentMoreThanAverage": "{percent}% more than average",
+  "@percentMoreThanAverage": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+
+  "featureBankAccounts": "Bank Accounts",
+  "featureBankAccountsDesc": "Track transactions across multiple bank accounts",
+  "featurePaymentMethods": "Payment Methods",
+  "featurePaymentMethodsDesc": "Organize expenses by cards, UPI, cash, and more",
+  "featureSavingsGoals": "Savings Goals",
+  "featureSavingsGoalsDesc": "Set and track your savings targets",
+  "featureBudgets": "Budgets",
+  "featureBudgetsDesc": "Create category budgets with alerts",
+  "featureRecurring": "Recurring Transactions",
+  "featureRecurringDesc": "Auto-track subscriptions and regular payments",
+  "featureCustomCategories": "Custom Categories",
+  "featureCustomCategoriesDesc": "Create personalized expense categories",
+  "featureReceiptScanning": "Receipt Scanning",
+  "featureReceiptScanningDesc": "Scan receipts to auto-add expenses",
+  "featureCloudSync": "Cloud Sync",
+  "featureCloudSyncDesc": "Backup and sync across devices",
+  "featurePdfReports": "PDF Reports",
+  "featurePdfReportsDesc": "Export beautiful financial reports",
+  "featureFullExport": "Full Data Export",
+  "featureFullExportDesc": "Export all data in CSV format",
+  "featureAdvancedInsights": "Advanced Insights",
+  "featureAdvancedInsightsDesc": "Detailed analytics and trends",
+  "featureMultiCurrency": "Multi-Currency",
+  "featureMultiCurrencyDesc": "Track expenses in any currency",
+  "featureWeeklySummary": "Weekly Summaries",
+  "featureWeeklySummaryDesc": "Receive weekly spending insights",
+  "featureAdFree": "Ad-Free Experience",
+  "featureAdFreeDesc": "No ads or interruptions",
+
+  "unlockFinancialPotential": "Unlock Your Financial Potential",
+  "getUnlimitedAccess": "Get unlimited access to all premium features",
+  "chooseYourPlan": "Choose Your Plan",
+  "whatYoullGet": "What You'll Get",
+  "noAdsEver": "No Ads, Ever",
+  "noAdsDesc": "Enjoy a completely ad-free experience",
+  "prioritySupport": "Priority Support",
+  "prioritySupportDesc": "Get help when you need it",
+  "cancelAnytime": "Cancel anytime. Terms & Privacy Policy apply.",
+  "inAppPurchasesSoon": "In-app purchases will be available soon!",
+  "savePercentage": "Save {percent}%",
+  "@savePercentage": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "payOnce": "Pay Once",
+  "annual": "Annual",
+  "free": "Free",
+  "unlimited": "Unlimited",
+
+  "feature": "Feature",
+  "advancedAnalytics": "Advanced Analytics",
+
+  "changeEmail": "Change Email",
+  "currentEmail": "Current Email",
+  "newEmailAddress": "New Email Address",
+  "sendVerificationEmail": "Send Verification Email",
+  "important2WayVerificationRequired": "Important: 2-Way Verification Required",
+  "twoWayVerificationMessage": "You must have access to BOTH your current email AND your new email to complete this change. Confirmation links will be sent to both addresses and you must click both links (in any order) on this device.",
+  "afterClickingBothLinks": "After clicking both confirmation links, you'll be redirected back to the app and your email will be updated.",
+  "failedToChangeEmail": "Failed to change email",
+  "pleaseEnterAnEmailAddress": "Please enter an email address",
+  "pleaseEnterAValidEmailAddress": "Please enter a valid email address",
+  "newEmailMustBeDifferent": "New email must be different from current email",
+  "verificationEmailSentTo": "Verification email sent to {email}. Please check your inbox and click the link to confirm the change.",
+  "@verificationEmailSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "emailAlreadyRegistered": "This email is already registered in the system. It may be linked to another account or a previous email change. Please use a different email or contact support.",
+  "pleaseWaitBeforeRequestingAgain": "Please wait a few minutes before requesting another email change.",
+  "thisIsAlreadyYourEmail": "This is already your current email address.",
+  "emailAlreadyRegisteredShort": "This email is already registered. Please use a different email.",
+  "failedToChangeEmailTryAgain": "Failed to change email. Please try again.",
+  "pleaseEnterValidEmailShort": "Please enter a valid email",
+
+  "deletePaymentMethod": "Delete Payment Method",
+  "deletePaymentMethodConfirm": "Are you sure you want to delete \"{name}\"? This action cannot be undone.",
+  "@deletePaymentMethodConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "noPaymentMethodsYet": "No Payment Methods Yet",
+  "addPaymentMethodsDesc": "Add your payment methods to track\nexpenses more accurately.",
+  "card": "Card",
+
+  "advancedInsights": "Advanced Insights",
+  "getDetailedAnalytics": "Get detailed analytics, spending patterns, and financial health scores",
+  "expensesByCategory": "Expenses by Category",
+  "incomeByCategory": "Income by Category",
+  "expense": "Expense",
+  "filters": "Filters",
+  "clearAll": "Clear All",
+  "selectCategories": "Categories (select multiple)",
+  "payment": "Payment",
+  "comparePayment": "Compare Payment Methods",
+  "compareMerchant": "Compare Merchants",
+  "compareCategory": "Compare Categories",
+  "selectUpTo4Items": "Select up to 4 items to compare",
+  "netBankFlow": "Net Bank Flow",
+  "moneyIn": "Money In",
+  "moneyOut": "Money Out",
+  "accountBreakdown": "Account Breakdown",
+  "unknown": "Unknown",
+  "showingFilteredResults": "Showing filtered results",
+  "savings": "Savings",
+  "financialHealth": "Financial Health",
+  "spendingIncreasedVsLastMonth": "Spending increased significantly vs last month.",
+  "savingPercentOfIncome": "You're saving {percent}% of your income.",
+  "@savingPercentOfIncome": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "immediateActionRecommended": "Immediate action recommended.",
+  "addIncomeExpensesForInsights": "Add income and expenses for insights.",
+  "yourFinancesAreHealthy": "Your finances are healthy.",
+  "avg": "Avg",
+  "peak": "Peak",
+  "tapOnBarsToSeeDailySpending": "Tap on bars to see daily spending",
+  "noExpensesThisMonth": "No expenses this month",
+  "noIncomeThisMonth": "No income this month",
+  "selectCategoriesToDisplay": "Select categories to display:",
+  "showAll": "Show All",
+  "moreCategories": "More ({count})",
+  "@moreCategories": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "billReminders": "Bill Reminders",
+  "getRemindedBeforePaymentsDue": "Get reminded before recurring payments are due",
+  "remindMe": "Remind me",
+  "notificationsHelpMessage": "Notifications help you stay on top of your finances. You can adjust these settings anytime.",
+  "reminderSetFor": "Reminder set for {time}",
+  "@reminderSetFor": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "flowLedgerNeedsNotificationPermission": "FlowLedger needs notification permission to send you reminders and alerts.\n\nPlease enable notifications to receive:",
+  "pleaseEnableNotificationsInSettings": "Please enable notifications in your device settings",
+  "testNotificationTitle": "Test Notification",
+  "testNotificationBody": "Great! Notifications are working perfectly. 🎉",
+  "testNotificationSent": "Test notification sent!",
+  "failedToSendNotification": "Failed to send notification: {error}",
+  "@failedToSendNotification": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+
+  "signOutMessage": "Are you sure you want to sign out?\n\nYour local data will remain on this device, but you won't be able to sync until you sign back in.",
+  "signedOutSuccessfully": "Signed out successfully",
+  "birthDateUpdated": "Birth date updated",
+  "passwordUpdatedSuccessfullyShort": "Password updated successfully",
+  "accountDeletedMessage": "Account deleted",
+  "failedToDeleteAccount": "Failed to delete account",
+  "notSignedIn": "Not signed in",
+  "signInToManageProfile": "Sign in to manage your profile",
+  "editDisplayName": "Edit Display Name",
+  "newPasswordDifferentError": "New password must be different from your current password.",
+  "passwordTooWeak": "Password is too weak. Please choose a stronger password.",
+  "networkError": "Network error. Please check your connection and try again.",
+  "failedToChangePasswordGeneric": "Failed to change password. Please try again.",
+  "newPassword": "New Password",
+  "pleaseEnterAPassword": "Please enter a password",
+  "passwordMustBe6Chars": "Password must be at least 6 characters",
+  "pleaseConfirmYourPassword": "Please confirm your password",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "typeDELETEToDelete": "Type DELETE to permanently delete your account:",
+
+  "clearAllDataQuestion": "Clear All Data?",
+  "clearAllDataWarning": "This action will permanently delete all your local data including:",
+  "allTransactions": "All transactions",
+  "bankAccountsPaymentMethods": "Bank accounts & payment methods",
+  "budgetsSavingsGoals": "Budgets & savings goals",
+  "customCategoriesItem": "Custom categories",
+  "recurringTransactionsItem": "Recurring transactions",
+  "cloudDataSafeMessage": "Your cloud data will remain safe. You can restore by syncing again.",
+  "localDataDeleteWarning": "This will permanently delete all your local data. Cloud sync is not enabled.",
+  "actionCannotBeUndone": "This action cannot be undone!",
+  "importCSV": "Import CSV",
+  "aboutFlowLedgerTitle": "About FlowLedger",
+  "debugPremiumMode": "Debug Premium Mode",
+
+  "last3Months": "Last 3 Months",
+
+  "addIncomeCategory": "Add Income Category",
+  "addExpenseCategory": "Add Expense Category",
+  "editIncomeCategory": "Edit Income Category",
+  "editExpenseCategory": "Edit Expense Category",
+  "chooseIconLabel": "Choose Icon",
+  "categoryName": "Category Name",
+  "changesWillAffectExisting": "Changes will affect all existing entries with this category",
+
+  "format": "Format",
+  "examples": "Examples",
+
+  "deleteAccountWarning": "⚠️ This will permanently delete:\n\n• Your profile\n• All income records\n• All expense records\n• All bank accounts\n• All payment methods\n• All budgets and goals\n• All recurring transactions\n• All custom categories\n• All merchants\n\nThis action CANNOT be undone!",
+
+  "welcomeBackTitle": "Welcome Back",
+  "signInToSyncDataDesc": "Sign in to sync your data across devices",
+  "emailLabel": "Email",
+  "enterYourEmailHint": "Enter your email",
+  "passwordLabel": "Password",
+  "enterYourPasswordHint": "Enter your password",
+  "forgotPasswordQuestion": "Forgot Password?",
+  "signedUpWithGoogleHint": "Signed up with Google? Skip the form and use the Google button below.",
+  "orContinueWithText": "or continue with",
+  "dontHaveAccountQuestion": "Don't have an account? ",
+  "alreadyHaveAccountQuestion": "Already have an account? ",
+
+  "createAccountTitle": "Create Account",
+  "signUpToBackupDesc": "Sign up to backup and sync your data across all your devices",
+  "nameLabel": "Name",
+  "enterYourNameHint": "Enter your name",
+  "birthDateLabel": "Birth Date",
+  "selectYourBirthDateHint": "Select your birth date",
+  "yearsOld": "{age} years old",
+  "@yearsOld": {
+    "placeholders": {
+      "age": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasswordHint": "Create a password",
+  "atLeast6Characters": "At least 6 characters",
+  "reenterPasswordHint": "Re-enter your password",
+
+  "accountCreatedTitle": "Account Created!",
+  "verificationEmailSentDesc": "We've sent a verification email to your inbox.\n\n1. Check your email\n2. Click \"Confirm your mail\"\n3. Return here and sign in with your credentials\n\nThe verification link may open the app or a web page - either way, your email will be verified!",
+  "gotItGoToSignInBtn": "Got it, go to Sign In",
+
+  "accountPreviouslyDeleted": "Account Previously Deleted",
+  "reactivateAccountDesc": "Your previous account was deleted but can be reactivated.\n\nTo reactivate your account:\n1. Go to Sign In\n2. Tap \"Forgot Password\"\n3. Reset your password\n4. Sign in with the new password\n\nYour account will be automatically reactivated when you sign in.",
+  "goToSignIn": "Go to Sign In",
+
+  "accountAlreadyExists": "Account Already Exists",
+  "accountExistsGoogleHint": "An account with this email already exists.\n\nIf you signed up with Google before, please use \"Continue with Google\" to sign in.",
+
+  "welcomeBackMessage": "Welcome back! Your account has been reactivated.",
+  "mustBe12YearsOldMessage": "You must be at least 12 years old to use FlowLedger",
+
+  "forgotPasswordTitle": "Forgot Password?",
+  "forgotPasswordDesc": "No worries! Enter your email and we'll send you a link to reset your password.",
+  "googleAccountWarning": "Signed up with Google? Password reset won't work. Use \"Continue with Google\" on the login page instead.",
+  "sendResetLink": "Send Reset Link",
+  "backToSignIn": "Back to Sign In",
+  "passwordResetEmailSentMessage": "Password reset email sent!",
+
+  "checkYourEmailTitle": "Check Your Email",
+  "passwordResetSentTo": "We sent a password reset link to\n{email}",
+  "@passwordResetSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "checkYourEmailInbox": "Check your email inbox",
+  "clickTheResetLink": "Click the reset link",
+  "createYourNewPassword": "Create your new password",
+  "signInWithNewPassword": "Sign in with new password",
+  "openEmailOnDeviceWithApp": "Open the email on a device with FlowLedger installed. The reset link will open in the app.",
+  "didntReceiveEmail": "Didn't receive the email? Try again",
+
+  "createNewPasswordTitle": "Create New Password",
+  "newPasswordMustBeDifferentDesc": "Your new password must be different from previously used passwords.",
+  "newPasswordLabel": "New Password",
+  "enterNewPasswordHint": "Enter new password",
+  "confirmPasswordLabel": "Confirm Password",
+  "confirmNewPasswordHint": "Confirm new password",
+  "resetPasswordBtn": "Reset Password",
+
+  "passwordResetTitle": "Password Reset!",
+  "passwordResetSuccessDesc": "Your password has been successfully reset.\nYou can now sign in with your new password.",
+  "continueToSignIn": "Continue to Sign In",
+
+  "newPasswordSameError": "New password must be different from your current password. Please choose a different password.",
+  "resetLinkExpiredError": "This reset link has expired. Please request a new password reset link.",
+  "failedToResetPasswordError": "Failed to reset password. The link may have expired. Please try again.",
+
+  "appearanceTitle": "Appearance",
+  "followsDeviceSettingsDesc": "Follows device settings",
+  "couldNotEnableAppLockMessage": "Could not enable App Lock. Please check your device settings.",
+  "notSignedInLabel": "Not signed in",
+  "developerOptions": "DEVELOPER OPTIONS",
+  "debugPremiumModeLabel": "Debug Premium Mode",
+  "enabledLabel": "Enabled",
+  "disabledLabel": "Disabled",
+  "debugModeWarning": "Debug mode: Premium features unlocked without real purchase",
+
+  "deleteAllDataWarningDetails": "This action will permanently delete all your local data including:",
+  "allTransactionsItem": "All transactions",
+  "bankAccountsPaymentMethodsItem": "Bank accounts & payment methods",
+  "budgetsSavingsGoalsItem": "Budgets & savings goals",
+  "customCategoriesListItem": "Custom categories",
+  "recurringTransactionsListItem": "Recurring transactions",
+  "deleteAllDataBtn": "Delete All Data",
+  "clearingDataMessage": "Clearing data...",
+  "allLocalDataClearedMessage": "All local data has been cleared",
+  "errorClearingDataMessage": "Error clearing data: {error}",
+  "@errorClearingDataMessage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+
+  "viewPortfolio": "View Portfolio",
+  "viewSourceCode": "View source code and projects",
+
+  "forgotPasswordDescription": "No worries! Enter your email and we'll send you a link to reset your password.",
+  "googlePasswordResetWarning": "Signed up with Google? Password reset won't work. Use \"Continue with Google\" on the login page instead.",
+  "weSentPasswordResetLink": "We sent a password reset link to",
+  "checkEmailInbox": "Check your email inbox",
+  "clickResetLink": "Click the reset link",
+  "signInWithNewPassword": "Sign in with new password",
+  "resetLinkDeviceNote": "Open the email on a device with FlowLedger installed. The reset link will open in the app.",
+  "didntReceiveEmailTryAgain": "Didn't receive the email? Try again",
+  "passwordMustBeDifferent": "New password must be different from your current password. Please choose a different password.",
+  "passwordResetSuccessTitle": "Password Reset!",
+  "passwordResetSuccessMessage": "Your password has been successfully reset.\nYou can now sign in with your new password.",
+  "passwordMinLength": "Password must be at least 6 characters",
+  "pleaseEnterEmail": "Please enter your email",
+  "pleaseConfirmPassword": "Please confirm your password",
+
+  "support": "Support",
+  "contactUs": "Contact Us",
+
+  "deleteAllCloudData": "Delete All Cloud Data",
+  "deleteCloudDataDesc": "Permanently delete all data from cloud and local storage",
+  "deleteCloudDataWarning": "⚠️ This will PERMANENTLY delete:\n\n• All transactions from cloud\n• All bank accounts from cloud\n• All payment methods from cloud\n• All budgets and goals from cloud\n• All recurring transactions from cloud\n• All custom categories from cloud\n• All merchants from cloud\n\nLocal data will also be cleared.\n\nThis action CANNOT be undone!",
+  "typeDeleteToConfirmCloudData": "Type DELETE to permanently delete all cloud and local data:",
+  "allDataDeletedSuccessfully": "All cloud and local data deleted successfully",
+  "failedToDeleteCloudData": "Failed to delete cloud data",
+  "errorDeletingData": "Error deleting data",
+  "finalConfirmation": "Final Confirmation",
+  "deleteForever": "Delete Forever",
+  "continueText": "Continue",
+
+  "emailChanged": "Email Changed!",
+  "emailChangedSuccessfully": "Your email has been successfully changed to:",
+  "yourNewEmail": "your new email",
+  "useNewEmailToSignIn": "Use this email to sign in from now on.",
+  "continueBtn": "Continue",
+  "systemDefault": "System Default",
+
+  "exportReports": "Export Reports",
+  "dateRange": "DATE RANGE",
+  "include": "INCLUDE",
+  "exportAs": "EXPORT AS",
+  "from": "From",
+  "to": "To",
+  "pdfReport": "PDF Report",
+  "formattedReport": "Formatted report",
+  "csvExport": "CSV Export",
+  "spreadsheet": "Spreadsheet",
+  "exportReady": "Export Ready",
+  "reportGeneratedSuccessfully": "Your report has been generated successfully",
+  "shareReport": "Share Report",
+  "selectAtLeastOneTransactionType": "Please select at least one transaction type",
+  "failedToGeneratePdf": "Failed to generate PDF: {error}",
+  "@failedToGeneratePdf": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToGenerateCsv": "Failed to generate CSV: {error}",
+  "@failedToGenerateCsv": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+
+  "goalsActiveGoals": "Active Goals",
+  "goalsCompletedCount": "Completed ({count})",
+  "@goalsCompletedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "goalsNewGoal": "New Goal",
+  "goalsEmptyStateDesc": "Create your first goal to start\ntracking your savings progress",
+  "goalsTotalSaved": "Total Saved",
+  "goalsActiveCount": "{count} active",
+  "@goalsActiveCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "goalsTargetAmount": "Target: {amount}",
+  "@goalsTargetAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "goalsOverdue": "Overdue",
+  "goalsDaysLeft": "{days}d left",
+  "@goalsDaysLeft": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "goalsDaysLeftLong": "{days} days left",
+  "@goalsDaysLeftLong": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "goalsCompletedLabel": "Completed",
+  "goalsCreateNewGoal": "Create New Goal",
+  "goalsNameHint": "e.g., Emergency Fund, New Car",
+  "goalsEnterTargetAmount": "Enter target amount",
+  "goalsTargetDateOptional": "Target Date (Optional)",
+  "goalsNoDeadlineSet": "No deadline set",
+  "goalsUpdateGoal": "Update Goal",
+  "goalsPleaseEnterGoalName": "Please enter a goal name",
+  "goalsPleaseEnterValidTargetAmount": "Please enter a valid target amount",
+  "goalsAmountSaved": "{amount} saved",
+  "@goalsAmountSaved": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "goalsWithdraw": "Withdraw",
+  "goalsAmountToWithdraw": "Amount to withdraw",
+  "goalsAmountToAdd": "Amount to add",
+  "goalsCannotWithdrawMoreThanSaved": "Cannot withdraw more than saved amount",
+  "goalsWithdrawnAmount": "Withdrawn {amount}",
+  "@goalsWithdrawnAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "goalsAddedAmount": "Added {amount}",
+  "@goalsAddedAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "goalsCompletedMessage": "Goal completed! {name}",
+  "@goalsCompletedMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "goalsAmountRemaining": "{amount} remaining",
+  "@goalsAmountRemaining": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "goalsCreated": "Created",
+  "goalsMilestones": "Milestones",
+  "goalsDeleteConfirmation": "Are you sure you want to delete \"{name}\"? This cannot be undone.",
+  "@goalsDeleteConfirmation": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+
+  "premiumFeatureExclusiveMessage": "{feature} is available exclusively for Premium members. Upgrade to unlock all features!",
+  "@premiumFeatureExclusiveMessage": {
+    "placeholders": {
+      "feature": {
+        "type": "String"
+      }
+    }
+  },
+  "freeLimitReachedMessage": "You've reached the free limit of {limit} {items}. Upgrade to Premium for unlimited access!",
+  "@freeLimitReachedMessage": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "items": {
+        "type": "String"
+      }
+    }
+  },
+
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+
+  "percentUsed": "{percent}% used",
+  "@percentUsed": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+
+  "noBudgetsFoundFor": "No budgets found for {month} {year}",
+  "@noBudgetsFoundFor": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+
+  "copyBudgetsConfirm": "Copy {count} budget(s) from {fromMonth} {fromYear} to {toMonth} {toYear}?",
+  "@copyBudgetsConfirm": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      },
+      "fromMonth": {
+        "type": "String"
+      },
+      "fromYear": {
+        "type": "String"
+      },
+      "toMonth": {
+        "type": "String"
+      },
+      "toYear": {
+        "type": "String"
+      }
+    }
+  },
+
+  "monthlyBudgetCurrency": "Monthly Budget ({currency})",
+  "@monthlyBudgetCurrency": {
+    "placeholders": {
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+
+  "setTo0ToRemoveBudget": "Set to 0 or empty to remove budget for this category",
+
+  "createNewPassword": "Create your new password",
+  "pleaseEnterPassword": "Please enter a password",
+  "resetPassword": "Reset Password",
+
+  "cashPaymentsTracked": "Cash payments will be tracked without any additional details.",
+  "lastFourDigitsRequired": "Last 4 digits are required",
+  "enterExactly4Digits": "Please enter exactly 4 digits",
+  "chequeNumberHint": "e.g., Cheque No. 123456",
+  "chequeReferenceInfo": "Enter cheque number or any reference for tracking.",
+  "privacyNotice": "FlowLedger stores data locally on your device only. We do not collect or store any sensitive financial information like full card numbers, CVV or bank passwords.",
+
+  "beforeDueDate": "before due date",
+  "oneDay": "1 day",
+  "nDays": "{count} days",
+  "@nDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "connected": "Connected",
+  "notConnected": "Not Connected",
+  "lastSynced": "Last synced: {time}",
+  "@lastSynced": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "neverSynced": "Never synced",
+  "signInToEnableCloudSync": "Sign in to enable cloud sync",
+  "syncManuallyWithSyncNow": "Sync manually with \"Sync Now\"",
+  "dataEncryptedSecurely": "Your data is encrypted and securely stored in the cloud. Sync to access it from any device.",
+  "signInToBackupData": "Sign in to backup your data and sync across devices.",
+  "signInToEnableSync": "Sign in to Enable Sync",
+  "backupDataAccessAnywhere": "Backup your data and access it from any device",
+  "autoSyncEnabled": "Auto-sync enabled. Changes will sync automatically.",
+  "autoSyncDisabled": "Auto-sync disabled. Use \"Sync Now\" to sync manually.",
+  "syncedUpDown": "Synced {up} up, {down} down",
+  "@syncedUpDown": {
+    "placeholders": {
+      "up": {
+        "type": "int"
+      },
+      "down": {
+        "type": "int"
+      }
+    }
+  },
+  "syncFailed": "Sync failed",
+  "backedUpItems": "Backed up {count} items",
+  "@backedUpItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "backupFailed": "Backup failed",
+  "restoreWarning": "⚠️ WARNING: This will REPLACE all your local data with data from the cloud.\n\nAny transactions added locally since your last backup will be LOST.\n\nUse \"Sync Now\" instead if you want to merge local and cloud data.",
+  "restoredItems": "Restored {count} items",
+  "@restoredItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "restoreFailed": "Restore failed",
+  "justNow": "Just now",
+  "minAgo": "{count} min ago",
+  "@minAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursAgo": "{count} hours ago",
+  "@hoursAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "daysAgo": "{count} days ago",
+  "@daysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "noExpensesThisWeek": "No expenses recorded this week. Keep tracking to get insights!",
+
+  "excellentSavingsRate": "Excellent savings rate",
+  "goodSavingsRate": "Good savings rate",
+  "moderateSavings": "Moderate savings",
+  "overspending": "Overspending",
+  "lowSavings": "Low savings",
+  "recurringIncome": "Recurring income",
+  "multipleIncomeEntries": "Multiple income entries",
+  "budgetDiscipline": "Budget discipline",
+  "budgetOverruns": "Budget overruns",
+  "manyMicroTransactions": "Many micro-transactions",
+  "consistentSpending": "Consistent spending",
+  "spendingImproved": "Spending improved",
+  "spendingIncreased": "Spending increased",
+
+  "savingPercentOfIncome": "Saving {percent}% of income",
+  "@savingPercentOfIncome": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "spendingMoreThanEarning": "Spending more than earning",
+  "tryToSaveAtLeast20": "Try to save at least 20%",
+  "nRecurringSources": "{count} recurring source(s)",
+  "@nRecurringSources": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "nEntries": "{count} entries",
+  "@nEntries": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "allBudgetsOnTrack": "All {count} budget(s) on track",
+  "@allBudgetsOnTrack": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "nBudgetsExceeded": "{count} budget(s) exceeded",
+  "@nBudgetsExceeded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "nPurchasesUnder200": "{count} purchases under ₹200",
+  "@nPurchasesUnder200": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noUnusualSpikes": "No unusual spikes",
+  "percentLessThanAverage": "{percent}% less than average",
+  "@percentLessThanAverage": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "percentMoreThanAverage": "{percent}% more than average",
+  "@percentMoreThanAverage": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+
+  "syncNow": "Sync Now",
+  "uploadAndDownloadChanges": "Upload and download changes",
+  "backupToCloud": "Backup to Cloud",
+  "uploadAllLocalData": "Upload all local data",
+  "restoreFromCloud": "Restore from Cloud",
+  "downloadAllCloudData": "Download all cloud data",
+  "restoreFromCloudQuestion": "Restore from Cloud?",
+  "restore": "Restore",
+  "billReminders": "Bill Reminders",
+  "getRemindedBeforePaymentsDue": "Get reminded before recurring payments are due",
+  "remindMe": "Remind me",
+  "notificationsHelpMessage": "Notifications help you stay on top of your finances. You can adjust these settings anytime.",
+  "sendTestNotification": "Send Test Notification",
+
+  "cloudSyncPremiumTitle": "Cloud Sync is a PRO Feature",
+  "cloudSyncPremiumDesc": "Upgrade to PRO to backup your data securely and access it from any device.",
+  "backupDesc": "Securely store all your data",
+  "accessAnyDevice": "Access from Any Device",
+  "accessAnyDeviceDesc": "Sync across all your devices",
+  "autoSync": "Auto-Sync",
+  "autoSyncDesc": "Changes sync automatically",
+
+  "takePhoto": "Take Photo",
+  "chooseImage": "Choose image",
+  "pdfDocument": "PDF Document",
+  "selectPdfReceiptOrBill": "Select a PDF receipt or bill",
+  "tipsForBestResults": "Tips for best results:",
+  "ensureGoodLighting": "Ensure good lighting",
+  "keepReceiptFlat": "Keep the receipt flat",
+  "includeEntireReceipt": "Include the entire receipt in frame",
+  "containsAds": "Contains Ads",
+  "pdfReports": "PDF Reports",
+  "weeklySummaries": "Weekly Summaries",
+  "dataExport": "Data Export",
+
+  "dailyReminderTitle": "FlowLedger Reminder",
+  "weeklySummaryTitle": "📊 Your Weekly Summary",
+  "weeklySummaryReady": "Your weekly spending report is ready. Tap to see how you did!",
+
+  "cheekyMsg1": "Your wallet called. It wants to know where the money went today. 👀",
+  "cheekyMsg2": "Hey big spender! Don't forget to log those expenses before they log you out of your savings.",
+  "cheekyMsg3": "Plot twist: Your expenses don't track themselves. Time to spill the financial tea! ☕",
+  "cheekyMsg4": "Your future self will thank you for logging today's expenses. Your present self might grumble but do it anyway!",
+  "cheekyMsg5": "Money talks but only if you write down what it says. Track those expenses! 💸",
+  "cheekyMsg6": "Remember that coffee? That lunch? Log them before they become financial mysteries!",
+  "cheekyMsg7": "Your budget is playing hide and seek. Time to find where your money went today!",
+  "cheekyMsg8": "Breaking news: Receipts in your pocket don't automatically become data. You're needed!",
+  "cheekyMsg9": "Hey you! Yes you with the receipts. It's expense tracking time! 📝",
+  "cheekyMsg10": "Your bank statement is preparing a surprise. Make sure you're ready by logging expenses!",
+  "cheekyMsg11": "Fun fact: People who track expenses are 73% more likely to have money. We made that up but log anyway!",
+  "cheekyMsg12": "Your expenses are waiting like unopened messages. Time to check them! 💬",
+  "cheekyMsg13": "Quick reminder: That small purchase still counts. Log it! 🛍️",
+  "cheekyMsg14": "Your money has been on an adventure today. Care to document the journey?",
+  "cheekyMsg15": "Even the smallest leak can sink a ship. Track those little expenses! ⛵",
+  "cheekyMsg16": "Psst! Your expenses are gossiping about you. Better log them before they spill the beans! 🫘",
+  "cheekyMsg17": "Your money went on a date today. Document where it went! 💕",
+  "cheekyMsg18": "Alert: Untracked expenses detected in your pocket. Capture them now! 🎯",
+  "cheekyMsg19": "Remember when you said I'll track it later? It's later now. ⏰",
+  "cheekyMsg20": "Your piggy bank is judging you. Show it you're responsible! 🐷",
+
+  "normalMsg1": "Don't forget to log your expenses for today.",
+  "normalMsg2": "Take a moment to record today's spending.",
+  "normalMsg3": "Time for your daily expense check-in.",
+  "normalMsg4": "Have you logged your expenses today?",
+  "normalMsg5": "Keep your finances on track by logging today's expenses.",
+  "normalMsg6": "A quick reminder to update your expense log.",
+  "normalMsg7": "End your day right by recording your expenses.",
+  "normalMsg8": "Stay organized and log any spending from today.",
+  "normalMsg9": "Your daily expense reminder is here.",
+  "normalMsg10": "Take 2 minutes to log today's transactions.",
+  "normalMsg11": "Financial tracking reminder: Update your expenses.",
+  "normalMsg12": "Keep your records current by logging today's spending.",
+
+  "budgetExceededTitle": "⚠️ Budget Exceeded!",
+  "budgetAlmostGoneTitle": "🔴 Budget Almost Gone!",
+  "budgetAlertTitleNotif": "⚡ Budget Alert",
+  "budgetExceededBody": "You've exceeded your {category} budget. Spent ₹{spent} of ₹{budget}",
+  "@budgetExceededBody": {
+    "placeholders": {
+      "category": {"type": "String"},
+      "spent": {"type": "String"},
+      "budget": {"type": "String"}
+    }
+  },
+  "budgetAlmostGoneBody": "Only {percentLeft}% left in your {category} budget. ₹{remaining} remaining.",
+  "@budgetAlmostGoneBody": {
+    "placeholders": {
+      "category": {"type": "String"},
+      "percentLeft": {"type": "int"},
+      "remaining": {"type": "String"}
+    }
+  },
+  "budgetAlertBody": "You've used {percentUsed}% of your {category} budget. ₹{remaining} remaining.",
+  "@budgetAlertBody": {
+    "placeholders": {
+      "category": {"type": "String"},
+      "percentUsed": {"type": "int"},
+      "remaining": {"type": "String"}
+    }
+  },
+
+  "goalAchievedTitle": "🎉 Goal Achieved!",
+  "milestoneReachedTitle": "🏆 Milestone Reached!",
+  "goalUpdateTitle": "📊 Goal Update",
+  "goalAchievedBody": "Congratulations! You've reached your \"{goalName}\" goal of ₹{amount}!",
+  "@goalAchievedBody": {
+    "placeholders": {
+      "goalName": {"type": "String"},
+      "amount": {"type": "String"}
+    }
+  },
+  "milestoneBody": "You're {percent}% towards your \"{goalName}\" goal. Keep it up!",
+  "@milestoneBody": {
+    "placeholders": {
+      "goalName": {"type": "String"},
+      "percent": {"type": "int"}
+    }
+  },
+  "goalProgressBody": "\"{goalName}\" is now {percent}% complete. ₹{remaining} to go!",
+  "@goalProgressBody": {
+    "placeholders": {
+      "goalName": {"type": "String"},
+      "percent": {"type": "int"},
+      "remaining": {"type": "String"}
+    }
+  },
+
+  "billDueTodayTitle": "🔔 Bill Due Today!",
+  "billDueTomorrowTitle": "⏰ Bill Due Tomorrow",
+  "upcomingBillTitle": "📅 Upcoming Bill",
+  "incomeDueTodayTitle": "🔔 Income Due Today!",
+  "incomeDueTomorrowTitle": "⏰ Income Due Tomorrow",
+  "upcomingIncomeTitle": "📅 Upcoming Income",
+  "billDueTodayBody": "{name} (₹{amount}) is due today!",
+  "@billDueTodayBody": {
+    "placeholders": {
+      "name": {"type": "String"},
+      "amount": {"type": "String"}
+    }
+  },
+  "billDueTomorrowBody": "{name} (₹{amount}) is due tomorrow.",
+  "@billDueTomorrowBody": {
+    "placeholders": {
+      "name": {"type": "String"},
+      "amount": {"type": "String"}
+    }
+  },
+  "billDueInDaysBody": "{name} (₹{amount}) is due in {days} days.",
+  "@billDueInDaysBody": {
+    "placeholders": {
+      "name": {"type": "String"},
+      "amount": {"type": "String"},
+      "days": {"type": "int"}
+    }
+  },
+
+  "weeklySummaryGreat1": "You saved ₹{savings} this week! Your wallet is doing a happy dance! 💃",
+  "@weeklySummaryGreat1": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryGreat2": "₹{savings} saved! You're basically a financial wizard at this point! 🧙",
+  "@weeklySummaryGreat2": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryGreat3": "Look at you saving ₹{savings}! Your future self just sent a thank you note! 💌",
+  "@weeklySummaryGreat3": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryGreat4": "₹{savings} in the bank! Who needs a money tree when you've got skills? 🌳",
+  "@weeklySummaryGreat4": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+
+  "weeklySummaryGood1": "Earned ₹{income} and spent ₹{expense}. You're ₹{savings} richer! 🎉",
+  "@weeklySummaryGood1": {
+    "placeholders": {
+      "income": {"type": "String"},
+      "expense": {"type": "String"},
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryGood2": "This week: +₹{income} in -₹{expense} out. Net win of ₹{savings}! 📈",
+  "@weeklySummaryGood2": {
+    "placeholders": {
+      "income": {"type": "String"},
+      "expense": {"type": "String"},
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryGood3": "₹{savings} saved! Not bad at all. Every rupee counts! 💪",
+  "@weeklySummaryGood3": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryGood4": "You managed to save ₹{savings} this week. Small wins add up! 🏆",
+  "@weeklySummaryGood4": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+
+  "weeklySummaryBad1": "Uh oh! You overspent by ₹{savings}. Time to befriend your piggy bank! 🐷",
+  "@weeklySummaryBad1": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryBad2": "₹{savings} over budget. Your wallet needs a vacation from you! 🏖️",
+  "@weeklySummaryBad2": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryBad3": "Overspent by ₹{savings}. Maybe cook at home next week? 🍳",
+  "@weeklySummaryBad3": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummaryBad4": "You went ₹{savings} over. Time to channel your inner saver! 💰",
+  "@weeklySummaryBad4": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+
+  "weeklySummarySlight1": "Spent ₹{savings} more than you earned. Let's turn this around next week! 💪",
+  "@weeklySummarySlight1": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummarySlight2": "₹{savings} over but hey it happens! Fresh start next week! 🌅",
+  "@weeklySummarySlight2": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummarySlight3": "Slightly over by ₹{savings}. Nothing a good week can't fix! 🔧",
+  "@weeklySummarySlight3": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+  "weeklySummarySlight4": "A tiny ₹{savings} slip. Back on track from Monday! 📅",
+  "@weeklySummarySlight4": {
+    "placeholders": {
+      "savings": {"type": "String"}
+    }
+  },
+
+  "weeklySummaryNormal": "Income: ₹{income} | Expenses: ₹{expense} | {savedOrOver}: ₹{savings}",
+  "@weeklySummaryNormal": {
+    "placeholders": {
+      "income": {"type": "String"},
+      "expense": {"type": "String"},
+      "savedOrOver": {"type": "String"},
+      "savings": {"type": "String"}
+    }
+  },
+  "saved": "Saved",
+  "over": "Over",
+
+  "linkGoogleAccount": "Link Google Account",
+  "linkGoogleDescription": "Sign in with Google or email",
+  "googleConnected": "Google Connected",
+  "googleConnectedDescription": "You can sign in with Google or email",
+  "unlinkGoogleAccount": "Unlink Google Account?",
+  "unlinkGoogleDescription": "You will no longer be able to sign in with Google. You can still sign in with your email and password.",
+  "unlink": "Unlink",
+  "googleAccountLinked": "Google account linked successfully!",
+  "googleAccountUnlinked": "Google account unlinked",
+  "failedToLinkGoogle": "Failed to link Google account",
+  "failedToUnlinkGoogle": "Failed to unlink Google account",
+  "googleEmailMismatch": "The Google account email does not match your account email. Please use the same email address."
+}

@@ -1,0 +1,158 @@
+Key,English (en),Hindi (hi),French (fr),German (de),Spanish (es),Arabic (ar),Italian (it),Japanese (ja),Korean (ko),Portuguese (pt),Russian (ru),Chinese (zh)
+home,Home,होम,Accueil,Startseite,Inicio,الرئيسية,Home,ホーム,홈,Início,Главная,首页
+income,Income,आय,Revenus,Einkommen,Ingresos,الدخل,Entrate,収入,수입,Receita,Доходы,收入
+expenses,Expenses,व्यय,Dépenses,Ausgaben,Gastos,المصروفات,Spese,支出,지출,Despesas,Расходы,支出
+insights,Insights,इनसाइट्स,Analyses,Einblicke,Análisis,التحليلات,Analisi,分析,인사이트,Insights,Аналитика,分析
+scan,Scan,स्कैन,Scanner,Scannen,Escanear,مسح,Scansiona,スキャン,스캔,Digitalizar,Сканировать,扫描
+settings,Settings,सेटिंग्स,Paramètres,Einstellungen,Ajustes,الإعدادات,Impostazioni,設定,설정,Configurações,Настройки,设置
+profile,Profile,प्रोफ़ाइल,Profil,Profil,Perfil,الملف الشخصي,Profilo,プロフィール,프로필,Perfil,Профиль,个人资料
+appLock,App Lock,ऐप लॉक,Verrouillage,App-Sperre,Bloqueo de App,قفل التطبيق,Blocco App,アプリロック,앱 잠금,Bloqueio do App,Блокировка приложения,应用锁
+subscription,Subscription,सब्सक्रिप्शन,Abonnement,Abonnement,Suscripción,الاشتراك,Abbonamento,サブスクリプション,구독,Assinatura,Подписка,订阅
+currency,Currency,मुद्रा,Devise,Währung,Moneda,العملة,Valuta,通貨,통화,Moeda,Валюта,货币
+language,Language,भाषा,Langue,Sprache,Idioma,اللغة,Lingua,言語,언어,Idioma,Язык,语言
+appearance,Appearance,अपीयरेंस,Apparence,Erscheinungsbild,Apariencia,المظهر,Aspetto,外観,외관,Aparência,Оформление,外观
+notifications,Notifications,सूचनाएं,Notifications,Benachrichtigungen,Notificaciones,الإشعارات,Notifiche,通知,알림,Notificações,Уведомления,通知
+bankAccounts,Bank Accounts,बैंक खाते,Comptes Bancaires,Bankkonten,Cuentas Bancarias,الحسابات البنكية,Conti Bancari,銀行口座,은행 계좌,Contas Bancárias,Банковские счета,银行账户
+paymentMethods,Payment Methods,भुगतान विधियां,Modes de Paiement,Zahlungsmethoden,Métodos de Pago,طرق الدفع,Metodi di Pagamento,支払い方法,결제 수단,Métodos de Pagamento,Способы оплаты,支付方式
+budgets,Budgets,बजट,Budgets,Budgets,Presupuestos,الميزانيات,Budget,予算,예산,Orçamentos,Бюджеты,预算
+savingsGoals,Savings Goals,बचत लक्ष्य,Objectifs d'Épargne,Sparziele,Metas de Ahorro,أهداف الادخار,Obiettivi di Risparmio,貯蓄目標,저축 목표,Metas de Poupança,Цели накоплений,储蓄目标
+categories,Categories,श्रेणियां,Catégories,Kategorien,Categorías,الفئات,Categorie,カテゴリー,카테고리,Categorias,Категории,分类
+merchants,Merchants,व्यापारी,Commerçants,Händler,Comerciantes,التجار,Commercianti,店舗,가맹점,Comerciantes,Продавцы,商户
+recurringTransactions,Recurring Transactions,नियमित लेनदेन,Transactions Récurrentes,Wiederkehrende Transaktionen,Transacciones Recurrentes,المعاملات المتكررة,Transazioni Ricorrenti,定期取引,정기 거래,Transações Recorrentes,Регулярные транзакции,周期性交易
+exportData,Export Data,डेटा निर्यात,Exporter les Données,Daten Exportieren,Exportar Datos,تصدير البيانات,Esporta Dati,データのエクスポート,데이터 내보내기,Exportar Dados,Экспорт данных,导出数据
+cloudSync,Cloud Sync,क्लाउड सिंक,Sync Cloud,Cloud-Synchronisation,Sincronización en la Nube,المزامنة السحابية,Sincronizzazione Cloud,クラウド同期,클라우드 동기화,Sincronização na Nuvem,Облачная синхронизация,云同步
+clearAllData,Clear All Data,सभी डेटा साफ़ करें,Effacer Toutes les Données,Alle Daten Löschen,Borrar Todos los Datos,مسح جميع البيانات,Cancella Tutti i Dati,すべてのデータを消去,모든 데이터 삭제,Limpar Todos os Dados,Очистить все данные,清除所有数据
+account,Account,खाता,Compte,Konto,Cuenta,الحساب,Account,アカウント,계정,Conta,Аккаунт,账户
+preferences,Preferences,प्राथमिकताएं,Préférences,Einstellungen,Preferencias,التفضيلات,Preferenze,設定,환경설정,Preferências,Предпочтения,偏好设置
+dataManagement,Data Management,डेटा प्रबंधन,Gestion des Données,Datenverwaltung,Gestión de Datos,إدارة البيانات,Gestione Dati,データ管理,데이터 관리,Gerenciamento de Dados,Управление данными,数据管理
+about,About,बारे में,À propos,Über,Acerca de,حول,Informazioni,について,정보,Sobre,О приложении,关于
+freePlan,Free Plan,फ्री प्लान,Plan Gratuit,Kostenloser Plan,Plan Gratuito,الخطة المجانية,Piano Gratuito,無料プラン,무료 플랜,Plano Gratuito,Бесплатный план,免费计划
+premium,Premium,प्रीमियम,Premium,Premium,Premium,بريميوم,Premium,プレミアム,프리미엄,Premium,Премиум,高级版
+enabled,Enabled,सक्षम,Activé,Aktiviert,Activado,مفعّل,Abilitato,有効,활성화됨,Ativado,Включено,已启用
+disabled,Disabled,अक्षम,Désactivé,Deaktiviert,Desactivado,معطّل,Disabilitato,無効,비활성화됨,Desativado,Отключено,已禁用
+light,Light,लाइट,Clair,Hell,Claro,فاتح,Chiaro,ライト,라이트,Claro,Светлая,浅色
+dark,Dark,डार्क,Sombre,Dunkel,Oscuro,داكن,Scuro,ダーク,다크,Escuro,Тёмная,深色
+system,System,सिस्टम,Système,System,Sistema,النظام,Sistema,システム,시스템,Sistema,Системная,系统
+save,Save,सेव,Enregistrer,Speichern,Guardar,حفظ,Salva,保存,저장,Salvar,Сохранить,保存
+cancel,Cancel,रद्द करें,Annuler,Abbrechen,Cancelar,إلغاء,Annulla,キャンセル,취소,Cancelar,Отмена,取消
+delete,Delete,हटाएं,Supprimer,Löschen,Eliminar,حذف,Elimina,削除,삭제,Excluir,Удалить,删除
+edit,Edit,संपादित करें,Modifier,Bearbeiten,Editar,تعديل,Modifica,編集,편집,Editar,Изменить,编辑
+add,Add,जोड़ें,Ajouter,Hinzufügen,Añadir,إضافة,Aggiungi,追加,추가,Adicionar,Добавить,添加
+done,Done,हो गया,Terminé,Fertig,Hecho,تم,Fatto,完了,완료,Concluído,Готово,完成
+confirm,Confirm,पुष्टि करें,Confirmer,Bestätigen,Confirmar,تأكيد,Conferma,確認,확인,Confirmar,Подтвердить,确认
+close,Close,बंद करें,Fermer,Schließen,Cerrar,إغلاق,Chiudi,閉じる,닫기,Fechar,Закрыть,关闭
+back,Back,वापस,Retour,Zurück,Atrás,رجوع,Indietro,戻る,뒤로,Voltar,Назад,返回
+next,Next,आगे,Suivant,Weiter,Siguiente,التالي,Avanti,次へ,다음,Próximo,Далее,下一步
+skip,Skip,छोड़ें,Passer,Überspringen,Omitir,تخطي,Salta,スキップ,건너뛰기,Pular,Пропустить,跳过
+retry,Retry,पुनः प्रयास,Réessayer,Erneut versuchen,Reintentar,إعادة المحاولة,Riprova,再試行,다시 시도,Tentar Novamente,Повторить,重试
+signIn,Sign In,साइन इन,Connexion,Anmelden,Iniciar Sesión,تسجيل الدخول,Accedi,サインイン,로그인,Entrar,Войти,登录
+signUp,Sign Up,साइन अप,Inscription,Registrieren,Registrarse,إنشاء حساب,Registrati,サインアップ,회원가입,Cadastrar,Регистрация,注册
+signOut,Sign Out,साइन आउट,Déconnexion,Abmelden,Cerrar Sesión,تسجيل الخروج,Esci,サインアウト,로그아웃,Sair,Выйти,退出登录
+forgotPassword,Forgot Password?,पासवर्ड भूल गए?,Mot de passe oublié?,Passwort vergessen?,¿Olvidó su Contraseña?,نسيت كلمة المرور؟,Password Dimenticata?,パスワードをお忘れですか？,비밀번호를 잊으셨나요?,Esqueceu a Senha?,Забыли пароль?,忘记密码？
+createAccount,Create Account,खाता बनाएं,Créer un Compte,Konto Erstellen,Crear Cuenta,إنشاء حساب,Crea Account,アカウント作成,계정 만들기,Criar Conta,Создать аккаунт,创建账户
+deleteAccount,Delete Account,खाता हटाएं,Supprimer le Compte,Konto Löschen,Eliminar Cuenta,حذف الحساب,Elimina Account,アカウントを削除,계정 삭제,Excluir Conta,Удалить аккаунт,删除账户
+email,Email,ईमेल,E-mail,E-Mail,Correo,البريد الإلكتروني,Email,メール,이메일,E-mail,Эл. почта,电子邮件
+password,Password,पासवर्ड,Mot de passe,Passwort,Contraseña,كلمة المرور,Password,パスワード,비밀번호,Senha,Пароль,密码
+confirmPassword,Confirm Password,पासवर्ड की पुष्टि करें,Confirmer le mot de passe,Passwort bestätigen,Confirmar Contraseña,تأكيد كلمة المرور,Conferma Password,パスワードを確認,비밀번호 확인,Confirmar Senha,Подтвердите пароль,确认密码
+name,Name,नाम,Nom,Name,Nombre,الاسم,Nome,名前,이름,Nome,Имя,姓名
+welcomeBack,Welcome Back,वापसी पर स्वागत है,Bon Retour,Willkommen Zurück,Bienvenido de Nuevo,مرحباً بعودتك,Bentornato,おかえりなさい,다시 오신 것을 환영합니다,Bem-vindo de Volta,С возвращением,欢迎回来
+goodMorning,Good Morning,सुप्रभात,Bonjour,Guten Morgen,Buenos Días,صباح الخير,Buongiorno,おはようございます,좋은 아침,Bom Dia,Доброе утро,早上好
+goodAfternoon,Good Afternoon,शुभ दोपहर,Bon Après-midi,Guten Tag,Buenas Tardes,مساء الخير,Buon Pomeriggio,こんにちは,좋은 오후,Boa Tarde,Добрый день,下午好
+goodEvening,Good Evening,शुभ संध्या,Bonsoir,Guten Abend,Buenas Noches,مساء الخير,Buonasera,こんばんは,좋은 저녁,Boa Noite,Добрый вечер,晚上好
+totalIncome,Total Income,कुल आय,Revenus Totaux,Gesamteinkommen,Ingresos Totales,إجمالي الدخل,Entrate Totali,総収入,총 수입,Receita Total,Общий доход,总收入
+totalExpenses,Total Expenses,कुल व्यय,Dépenses Totales,Gesamtausgaben,Gastos Totales,إجمالي المصروفات,Spese Totali,総支出,총 지출,Despesas Totais,Общие расходы,总支出
+balance,Balance,बैलेंस,Solde,Saldo,Balance,الرصيد,Saldo,残高,잔액,Saldo,Баланс,余额
+thisMonth,This Month,इस महीने,Ce Mois,Diesen Monat,Este Mes,هذا الشهر,Questo Mese,今月,이번 달,Este Mês,Этот месяц,本月
+lastMonth,Last Month,पिछला महीना,Mois Dernier,Letzten Monat,Mes Pasado,الشهر الماضي,Mese Scorso,先月,지난 달,Mês Passado,Прошлый месяц,上月
+thisYear,This Year,इस साल,Cette Année,Dieses Jahr,Este Año,هذا العام,Quest'Anno,今年,올해,Este Ano,Этот год,今年
+addIncome,Add Income,आय जोड़ें,Ajouter un Revenu,Einkommen Hinzufügen,Añadir Ingreso,إضافة دخل,Aggiungi Entrata,収入を追加,수입 추가,Adicionar Receita,Добавить доход,添加收入
+addExpense,Add Expense,व्यय जोड़ें,Ajouter une Dépense,Ausgabe Hinzufügen,Añadir Gasto,إضافة مصروف,Aggiungi Spesa,支出を追加,지출 추가,Adicionar Despesa,Добавить расход,添加支出
+editIncome,Edit Income,आय संपादित करें,Modifier le Revenu,Einkommen Bearbeiten,Editar Ingreso,تعديل الدخل,Modifica Entrata,収入を編集,수입 편집,Editar Receita,Изменить доход,编辑收入
+editExpense,Edit Expense,व्यय संपादित करें,Modifier la Dépense,Ausgabe Bearbeiten,Editar Gasto,تعديل المصروف,Modifica Spesa,支出を編集,지출 편집,Editar Despesa,Изменить расход,编辑支出
+amount,Amount,राशि,Montant,Betrag,Cantidad,المبلغ,Importo,金額,금액,Valor,Сумма,金额
+description,Description,विवरण,Description,Beschreibung,Descripción,الوصف,Descrizione,説明,설명,Descrição,Описание,描述
+date,Date,तारीख,Date,Datum,Fecha,التاريخ,Data,日付,날짜,Data,Дата,日期
+category,Category,श्रेणी,Catégorie,Kategorie,Categoría,الفئة,Categoria,カテゴリー,카테고리,Categoria,Категория,分类
+source,Source,स्रोत,Source,Quelle,Fuente,المصدر,Fonte,ソース,출처,Fonte,Источник,来源
+notes,Notes,नोट्स,Notes,Notizen,Notas,ملاحظات,Note,メモ,메모,Notas,Заметки,备注
+search,Search,खोजें,Rechercher,Suchen,Buscar,بحث,Cerca,検索,검색,Pesquisar,Поиск,搜索
+noData,No data available,कोई डेटा उपलब्ध नहीं,Aucune donnée disponible,Keine Daten verfügbar,No hay datos disponibles,لا توجد بيانات,Nessun dato disponibile,データがありません,데이터 없음,Sem dados disponíveis,Нет данных,暂无数据
+noTransactions,No transactions yet,अभी कोई लेनदेन नहीं,Aucune transaction encore,Noch keine Transaktionen,Sin transacciones aún,لا توجد معاملات بعد,Nessuna transazione ancora,取引がありません,거래 내역 없음,Sem transações ainda,Пока нет транзакций,暂无交易记录
+noIncome,No income recorded,कोई आय दर्ज नहीं,Aucun revenu enregistré,Kein Einkommen erfasst,Sin ingresos registrados,لا يوجد دخل مسجل,Nessuna entrata registrata,収入が記録されていません,수입 기록 없음,Sem receitas registradas,Нет записей о доходах,暂无收入记录
+noExpenses,No expenses recorded,कोई व्यय दर्ज नहीं,Aucune dépense enregistrée,Keine Ausgaben erfasst,Sin gastos registrados,لا توجد مصروفات مسجلة,Nessuna spesa registrata,支出が記録されていません,지출 기록 없음,Sem despesas registradas,Нет записей о расходах,暂无支出记录
+error,Error,त्रुटि,Erreur,Fehler,Error,خطأ,Errore,エラー,오류,Erro,Ошибка,错误
+success,Success,सफलता,Succès,Erfolg,Éxito,نجاح,Successo,成功,성공,Sucesso,Успех,成功
+warning,Warning,चेतावनी,Avertissement,Warnung,Advertencia,تحذير,Avviso,警告,경고,Aviso,Предупреждение,警告
+info,Info,जानकारी,Info,Info,Info,معلومات,Info,情報,정보,Info,Информация,信息
+loading,Loading...,लोड हो रहा है...,Chargement...,Laden...,Cargando...,جاري التحميل...,Caricamento...,読み込み中...,로딩 중...,Carregando...,Загрузка...,加载中...
+pleaseWait,Please wait...,कृपया प्रतीक्षा करें...,Veuillez patienter...,Bitte warten...,Por favor espere...,يرجى الانتظار...,Attendere prego...,お待ちください...,잠시만 기다려 주세요...,Por favor aguarde...,Пожалуйста подождите...,请稍候...
+version,Version,संस्करण,Version,Version,Versión,الإصدار,Versione,バージョン,버전,Versão,Версия,版本
+privacyPolicy,Privacy Policy,गोपनीयता नीति,Politique de Confidentialité,Datenschutzrichtlinie,Política de Privacidad,سياسة الخصوصية,Informativa sulla Privacy,プライバシーポリシー,개인정보 처리방침,Política de Privacidade,Политика конфиденциальности,隐私政策
+termsOfService,Terms of Service,सेवा की शर्तें,Conditions d'Utilisation,Nutzungsbedingungen,Términos de Servicio,شروط الخدمة,Termini di Servizio,利用規約,서비스 약관,Termos de Serviço,Условия использования,服务条款
+rateApp,Rate App,ऐप रेट करें,Noter l'Application,App Bewerten,Calificar App,تقييم التطبيق,Valuta App,アプリを評価,앱 평가,Avaliar App,Оценить приложение,评价应用
+shareApp,Share App,ऐप शेयर करें,Partager l'Application,App Teilen,Compartir App,مشاركة التطبيق,Condividi App,アプリを共有,앱 공유,Compartilhar App,Поделиться приложением,分享应用
+unlockApp,Unlock FlowLedger,FlowLedger अनलॉक करें,Déverrouiller FlowLedger,FlowLedger Entsperren,Desbloquear FlowLedger,فتح FlowLedger,Sblocca FlowLedger,FlowLedgerのロックを解除,FlowLedger 잠금 해제,Desbloquear FlowLedger,Разблокировать FlowLedger,解锁FlowLedger
+upgradeToPremium,Upgrade to Premium,प्रीमियम में अपग्रेड करें,Passer à Premium,Auf Premium Upgraden,Actualizar a Premium,الترقية إلى بريميوم,Passa a Premium,プレミアムにアップグレード,프리미엄으로 업그레이드,Atualizar para Premium,Перейти на Премиум,升级到高级版
+restorePurchases,Restore Purchases,खरीदारी पुनर्स्थापित करें,Restaurer les Achats,Käufe Wiederherstellen,Restaurar Compras,استعادة المشتريات,Ripristina Acquisti,購入を復元,구매 복원,Restaurar Compras,Восстановить покупки,恢复购买
+incomeStreams,Income Streams,आय स्रोत,Sources de Revenus,Einkommensströme,Fuentes de Ingresos,مصادر الدخل,Flussi di Entrate,収入源,수입원,Fontes de Receita,Источники дохода,收入来源
+recentExpenses,Recent Expenses,हाल के खर्च,Dépenses Récentes,Letzte Ausgaben,Gastos Recientes,المصروفات الأخيرة,Spese Recenti,最近の支出,최근 지출,Despesas Recentes,Недавние расходы,最近支出
+netBalance,Net Balance,शुद्ध शेष,Solde Net,Nettobilanz,Balance Neto,الرصيد الصافي,Saldo Netto,純残高,순잔액,Saldo Líquido,Чистый баланс,净余额
+syncNow,Sync Now,अभी सिंक करें,Synchroniser,Jetzt Synchronisieren,Sincronizar Ahora,مزامنة الآن,Sincronizza Ora,今すぐ同期,지금 동기화,Sincronizar Agora,Синхронизировать,立即同步
+today,Today,आज,Aujourd'hui,Heute,Hoy,اليوم,Oggi,今日,오늘,Hoje,Сегодня,今天
+yesterday,Yesterday,कल,Hier,Gestern,Ayer,أمس,Ieri,昨日,어제,Ontem,Вчера,昨天
+monday,Monday,सोमवार,Lundi,Montag,Lunes,الإثنين,Lunedì,月曜日,월요일,Segunda-feira,Понедельник,星期一
+tuesday,Tuesday,मंगलवार,Mardi,Dienstag,Martes,الثلاثاء,Martedì,火曜日,화요일,Terça-feira,Вторник,星期二
+wednesday,Wednesday,बुधवार,Mercredi,Mittwoch,Miércoles,الأربعاء,Mercoledì,水曜日,수요일,Quarta-feira,Среда,星期三
+thursday,Thursday,गुरुवार,Jeudi,Donnerstag,Jueves,الخميس,Giovedì,木曜日,목요일,Quinta-feira,Четверг,星期四
+friday,Friday,शुक्रवार,Vendredi,Freitag,Viernes,الجمعة,Venerdì,金曜日,금요일,Sexta-feira,Пятница,星期五
+saturday,Saturday,शनिवार,Samedi,Samstag,Sábado,السبت,Sabato,土曜日,토요일,Sábado,Суббота,星期六
+sunday,Sunday,रविवार,Dimanche,Sonntag,Domingo,الأحد,Domenica,日曜日,일요일,Domingo,Воскресенье,星期日
+jan,Jan,जन,Jan,Jan,Ene,يناير,Gen,1月,1월,Jan,Янв,1月
+feb,Feb,फ़र,Fév,Feb,Feb,فبراير,Feb,2月,2월,Fev,Фев,2月
+mar,Mar,मार्च,Mar,Mär,Mar,مارس,Mar,3月,3월,Mar,Мар,3月
+apr,Apr,अप्रै,Avr,Apr,Abr,أبريل,Apr,4月,4월,Abr,Апр,4月
+may,May,मई,Mai,Mai,May,مايو,Mag,5月,5월,Mai,Май,5月
+jun,Jun,जून,Jun,Jun,Jun,يونيو,Giu,6月,6월,Jun,Июн,6月
+jul,Jul,जुल,Jul,Jul,Jul,يوليو,Lug,7月,7월,Jul,Июл,7月
+aug,Aug,अग,Aoû,Aug,Ago,أغسطس,Ago,8月,8월,Ago,Авг,8月
+sep,Sep,सित,Sep,Sep,Sep,سبتمبر,Set,9月,9월,Set,Сен,9月
+oct,Oct,अक्टू,Oct,Okt,Oct,أكتوبر,Ott,10月,10월,Out,Окт,10月
+nov,Nov,नव,Nov,Nov,Nov,نوفمبر,Nov,11月,11월,Nov,Ноя,11月
+dec,Dec,दिस,Déc,Dez,Dic,ديسمبر,Dic,12月,12월,Dez,Дек,12月
+food,Food & Dining,भोजन और डाइनिंग,Alimentation,Essen & Trinken,Comida y Restaurantes,طعام ومطاعم,Cibo e Ristoranti,食費,음식,Alimentação,Еда,食品
+transport,Transport,परिवहन,Transport,Transport,Transporte,النقل,Trasporti,交通費,교통,Transporte,Транспорт,交通
+shopping,Shopping,खरीदारी,Shopping,Einkaufen,Compras,تسوق,Shopping,ショッピング,쇼핑,Compras,Покупки,购物
+utilities,Utilities,यूटिलिटीज,Services,Nebenkosten,Servicios,المرافق,Utenze,公共料金,공과금,Serviços,Коммунальные,公用事业
+entertainment,Entertainment,मनोरंजन,Divertissement,Unterhaltung,Entretenimiento,ترفيه,Intrattenimento,娯楽,엔터테인먼트,Entretenimento,Развлечения,娱乐
+healthcare,Healthcare,स्वास्थ्य सेवा,Santé,Gesundheit,Salud,رعاية صحية,Salute,医療,건강관리,Saúde,Здоровье,医疗保健
+education,Education,शिक्षा,Éducation,Bildung,Educación,تعليم,Istruzione,教育,교육,Educação,Образование,教育
+travel,Travel,यात्रा,Voyage,Reisen,Viajes,سفر,Viaggi,旅行,여행,Viagem,Путешествия,旅行
+salary,Salary,वेतन,Salaire,Gehalt,Salario,راتب,Stipendio,給与,급여,Salário,Зарплата,工资
+freelance,Freelance,फ्रीलांस,Freelance,Freiberuflich,Freelance,عمل حر,Freelance,フリーランス,프리랜서,Freelance,Фриланс,自由职业
+business,Business,व्यापार,Entreprise,Geschäft,Negocio,أعمال,Business,ビジネス,사업,Negócios,Бизнес,商业
+investment,Investment,निवेश,Investissement,Investition,Inversión,استثمار,Investimento,投資,투자,Investimento,Инвестиции,投资
+bonus,Bonus,बोनस,Prime,Bonus,Bono,مكافأة,Bonus,ボーナス,보너스,Bônus,Бонус,奖金
+gift,Gift,उपहार,Cadeau,Geschenk,Regalo,هدية,Regalo,プレゼント,선물,Presente,Подарок,礼物
+refund,Refund,रिफंड,Remboursement,Rückerstattung,Reembolso,استرداد,Rimborso,返金,환불,Reembolso,Возврат,退款
+daily,Daily,दैनिक,Quotidien,Täglich,Diario,يومي,Giornaliero,毎日,매일,Diário,Ежедневно,每日
+weekly,Weekly,साप्ताहिक,Hebdomadaire,Wöchentlich,Semanal,أسبوعي,Settimanale,毎週,매주,Semanal,Еженедельно,每周
+monthly,Monthly,मासिक,Mensuel,Monatlich,Mensual,شهري,Mensile,毎月,매월,Mensal,Ежемесячно,每月
+yearly,Yearly,वार्षिक,Annuel,Jährlich,Anual,سنوي,Annuale,毎年,매년,Anual,Ежегодно,每年
+total,Total,कुल,Total,Gesamt,Total,المجموع,Totale,合計,합계,Total,Всего,总计
+average,Average,औसत,Moyenne,Durchschnitt,Promedio,المتوسط,Media,平均,평균,Média,Средний,平均
+filter,Filter,फ़िल्टर,Filtrer,Filter,Filtrar,تصفية,Filtra,フィルター,필터,Filtrar,Фильтр,筛选
+sortBy,Sort by,क्रमबद्ध करें,Trier par,Sortieren nach,Ordenar por,ترتيب حسب,Ordina per,並び替え,정렬,Ordenar por,Сортировка по,排序
+ascending,Ascending,आरोही,Croissant,Aufsteigend,Ascendente,تصاعدي,Crescente,昇順,오름차순,Crescente,По возрастанию,升序
+descending,Descending,अवरोही,Décroissant,Absteigend,Descendente,تنازلي,Decrescente,降順,내림차순,Decrescente,По убыванию,降序
+newest,Newest,सबसे नया,Plus récent,Neueste,Más reciente,الأحدث,Più recente,最新,최신,Mais recente,Сначала новые,最新
+oldest,Oldest,सबसे पुराना,Plus ancien,Älteste,Más antiguo,الأقدم,Meno recente,最も古い,가장 오래된,Mais antigo,Сначала старые,最旧
+highest,Highest,सबसे ज्यादा,Plus élevé,Höchste,Mayor,الأعلى,Più alto,最高,가장 높은,Maior,Сначала большие,最高
+lowest,Lowest,सबसे कम,Plus bas,Niedrigste,Menor,الأقل,Più basso,最低,가장 낮은,Menor,Сначала маленькие,最低
+pro,PRO,PRO,PRO,PRO,PRO,PRO,PRO,PRO,PRO,PRO,PRO,PRO
+bestValue,Best Value,सर्वोत्तम मूल्य,Meilleure Valeur,Bester Wert,Mejor Valor,أفضل قيمة,Miglior Valore,最もお得,최고 가치,Melhor Valor,Лучшая цена,最超值
+mostPopular,Most Popular,सबसे लोकप्रिय,Plus Populaire,Am Beliebtesten,Más Popular,الأكثر شعبية,Più Popolare,最も人気,가장 인기,Mais Popular,Самый популярный,最受欢迎
+excellent,Excellent,उत्कृष्ट,Excellent,Ausgezeichnet,Excelente,ممتاز,Eccellente,優秀,우수,Excelente,Отлично,优秀
+good,Good,अच्छा,Bon,Gut,Bueno,جيد,Buono,良い,좋음,Bom,Хорошо,良好
+fair,Fair,ठीक,Correct,Ausreichend,Regular,مقبول,Discreto,普通,보통,Razoável,Удовлетворительно,一般
+poor,Poor,खराब,Faible,Schlecht,Malo,ضعيف,Scarso,悪い,나쁨,Ruim,Плохо,较差
+healthScore,Health Score,हेल्थ स्कोर,Score de Santé,Gesundheitswert,Puntuación de Salud,درجة الصحة,Punteggio Salute,健康スコア,건강 점수,Pontuação de Saúde,Оценка здоровья,健康评分
